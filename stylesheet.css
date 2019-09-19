@@ -1,0 +1,11 @@
+html {
+    background-color: lightgray;
+}
+#NameBadge {
+    font-family: Courier, sans-serif;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    background-color: white;
+    border: 2px solid red;
+}
+
